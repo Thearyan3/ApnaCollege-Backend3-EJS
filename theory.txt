@@ -1,0 +1,4 @@
+1. Templating - EJS(Embedded JavaScript Templates) 
+EJS is a simple Templating language that lets you generate HTML Markup with plain JavaScript. There are several popular tools to create templates like handlebars. But here, we are going to use ejs templates which is one of the popular tools for creating templates. 
+
+2. Interpolation Syntax = Interpolation refers to Embedding expressions into markup text. 
