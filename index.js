@@ -30,6 +30,6 @@ app.get("/ig/:username", (req, res) => {
     res.render("Insta.ejs", { data });
 });
 
-app.get("/hello", (req, res) => {
-    res.send("hello");
+app.get("/error", (req, res) => {
+    res.render("error.ejs");
 });
